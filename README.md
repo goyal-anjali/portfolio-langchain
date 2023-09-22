@@ -1,6 +1,9 @@
 # Introduction 
 This project intends to be a PoC for a portfolio management product that takes the AI technology and infrastructure to financial Advisors so that they can leverage their domain knowledge as well as the AI for better Asset Management.
 
+# Tech Stack
+LangChain, Streamlit
+
 # Getting Started
 Motivation is to create a Portfolio Management Service integrated that can be leveraged by financial advisors to use AI for Asset Management without having the deep knowledge of AI/ML.
 
